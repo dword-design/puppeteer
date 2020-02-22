@@ -10,9 +10,11 @@
     "dist"
   ],
   "scripts": {
+    "commit": "base commit",
     "depgraph": "base depgraph",
     "prepare": "base prepare",
     "prepublishOnly": "base prepublishOnly",
+    "release": "base release",
     "test": "base test"
   },
   "dependencies": {
@@ -20,6 +22,6 @@
     "puppeteer": "^2.1.1"
   },
   "devDependencies": {
-    "@dword-design/base": "^5.2.3"
+    "@dword-design/base": "^6.0.0"
   }
 }
