@@ -22,5 +22,8 @@
   },
   "devDependencies": {
     "@dword-design/base": "^6.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
