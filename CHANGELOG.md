@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/dword-design/puppeteer/compare/v1.0.2...v1.0.3) (2020-07-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency puppeteer to v5 ([f9a34ef](https://github.com/dword-design/puppeteer/commit/f9a34efcab50900e8099f493a524c0c7cb8e8d30))
+
 ## [1.0.2](https://github.com/dword-design/puppeteer/compare/v1.0.1...v1.0.2) (2020-03-21)
 
 
