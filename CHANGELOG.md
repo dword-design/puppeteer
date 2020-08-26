@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/dword-design/puppeteer/compare/v1.0.3...v1.0.4) (2020-08-26)
+
+
+### Bug Fixes
+
+* fixes ([e08987f](https://github.com/dword-design/puppeteer/commit/e08987f65404d310242ce9aa48ffdd402f5c5608))
+
 ## [1.0.3](https://github.com/dword-design/puppeteer/compare/v1.0.2...v1.0.3) (2020-07-05)
 
 
