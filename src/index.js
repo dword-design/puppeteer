@@ -1,10 +1,10 @@
 import puppeteer from 'puppeteer'
 
 const oldLaunch = puppeteer.launch
-puppeteer.launch = async function (options = {}) {
+puppeteer.launch = function (options = {}) {
   return oldLaunch.call(this, {
     ...options,
-    args: [...options.args || [], '--no-sandbox'],
+    args: [...(options.args || []), '--no-sandbox'],
   })
 }
 

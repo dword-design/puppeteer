@@ -1,8 +1,8 @@
-import puppeteer from '@dword-design/puppeteer'
+import self from '.'
 
 export default {
   valid: async () => {
-    const browser = await puppeteer.launch()
+    const browser = await self.launch()
     await browser.newPage()
     await browser.close()
   },
