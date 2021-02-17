@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/dword-design/puppeteer/compare/v1.0.5...v2.0.0) (2021-02-17)
+
+
+### Features
+
+* update dependency puppeteer to v7 ([#11](https://github.com/dword-design/puppeteer/issues/11)) ([0534e99](https://github.com/dword-design/puppeteer/commit/0534e994a3b19dad6083ea3a647a194a8b4fb7ae))
+
+
+### BREAKING CHANGES
+
+* page.screenshot makes a screenshot with the clip dimensions, not cutting it by the ViewPort size.
+* chromium: - page.screenshot cuts screenshot content by the ViewPort size, not ViewPort position.
+
 ## [1.0.5](https://github.com/dword-design/puppeteer/compare/v1.0.4...v1.0.5) (2020-12-02)
 
 
