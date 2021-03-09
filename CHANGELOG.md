@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/dword-design/puppeteer/compare/v2.0.0...v3.0.0) (2021-03-09)
+
+
+### Features
+
+* update dependency puppeteer to v8 ([#13](https://github.com/dword-design/puppeteer/issues/13)) ([cb97278](https://github.com/dword-design/puppeteer/commit/cb97278e6c04b7ce6efc7b50f197bdfd5c7d7a0a))
+
+
+### BREAKING CHANGES
+
+* update dependency puppeteer to v8
+
 # [2.0.0](https://github.com/dword-design/puppeteer/compare/v1.0.5...v2.0.0) (2021-02-17)
 
 
