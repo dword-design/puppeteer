@@ -1,3 +1,10 @@
+## [3.0.3](https://github.com/dword-design/puppeteer/compare/v3.0.2...v3.0.3) (2021-03-31)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#18](https://github.com/dword-design/puppeteer/issues/18)) ([d22e6d1](https://github.com/dword-design/puppeteer/commit/d22e6d15e8841e4524a84a726f699f7651a769b3))
+
 ## [3.0.2](https://github.com/dword-design/puppeteer/compare/v3.0.1...v3.0.2) (2021-03-22)
 
 
