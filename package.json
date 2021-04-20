@@ -1,7 +1,7 @@
 {
   "name": "@dword-design/puppeteer",
   "version": "3.0.4",
-  "description": "",
+  "description": null,
   "repository": "dword-design/puppeteer",
   "funding": "https://www.buymeacoffee.com/dword",
   "license": "MIT",
@@ -27,5 +27,7 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "homepage": null,
+  "keywords": []
 }
