@@ -1,3 +1,11 @@
+## [3.0.6](https://github.com/dword-design/puppeteer/compare/v3.0.5...v3.0.6) (2021-04-22)
+
+
+### Bug Fixes
+
+* update config files ([3b42857](https://github.com/dword-design/puppeteer/commit/3b428572761b8fe5af5dc1c87e56f0a90769558e))
+* updated package.json[description] ([#26](https://github.com/dword-design/puppeteer/issues/26)) ([db3a185](https://github.com/dword-design/puppeteer/commit/db3a185a64cbdfbd843d66e39a1b0af00e4364e6))
+
 ## [3.0.5](https://github.com/dword-design/puppeteer/compare/v3.0.4...v3.0.5) (2021-04-21)
 
 
