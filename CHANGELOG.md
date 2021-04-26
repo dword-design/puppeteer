@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/dword-design/puppeteer/compare/v3.0.6...v4.0.0) (2021-04-26)
+
+
+### Bug Fixes
+
+* update dependency puppeteer to v9 ([#25](https://github.com/dword-design/puppeteer/issues/25)) ([72ab7b1](https://github.com/dword-design/puppeteer/commit/72ab7b1bc78864ea24a36c80330fa54218ab2791))
+
+
+### BREAKING CHANGES
+
+* Update puppeteer to v9
+
 ## [3.0.6](https://github.com/dword-design/puppeteer/compare/v3.0.5...v3.0.6) (2021-04-22)
 
 
