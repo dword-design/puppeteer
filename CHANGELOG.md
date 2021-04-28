@@ -1,3 +1,10 @@
+## [4.0.1](https://github.com/dword-design/puppeteer/compare/v4.0.0...v4.0.1) (2021-04-28)
+
+
+### Bug Fixes
+
+* updated package.json[description] ([#27](https://github.com/dword-design/puppeteer/issues/27)) ([6a02b78](https://github.com/dword-design/puppeteer/commit/6a02b78d8198a5601ccfd7c2a8c912dad7dfea61))
+
 # [4.0.0](https://github.com/dword-design/puppeteer/compare/v3.0.6...v4.0.0) (2021-04-26)
 
 
