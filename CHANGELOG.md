@@ -1,3 +1,19 @@
+# [5.0.0](https://github.com/dword-design/puppeteer/compare/v4.0.1...v5.0.0) (2021-05-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v8 ([#30](https://github.com/dword-design/puppeteer/issues/30)) ([24f7379](https://github.com/dword-design/puppeteer/commit/24f737929a1a0b65ff7143b2293297d91ed95d4c))
+
+
+### BREAKING CHANGES
+
+* require Node.js >= 12
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Sebastian Landwehr <info@dword-design.de>
+Co-authored-by: GitHub Actions <actions@github.com>
+
 ## [4.0.1](https://github.com/dword-design/puppeteer/compare/v4.0.0...v4.0.1) (2021-04-28)
 
 
