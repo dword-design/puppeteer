@@ -1,3 +1,10 @@
+## [5.0.2](https://github.com/dword-design/puppeteer/compare/v5.0.1...v5.0.2) (2021-06-09)
+
+
+### Bug Fixes
+
+* update dependency puppeteer to v10 ([#34](https://github.com/dword-design/puppeteer/issues/34)) ([ce06a85](https://github.com/dword-design/puppeteer/commit/ce06a8597fdb4594b29bbfa375c6888066f7bdfc))
+
 ## [5.0.1](https://github.com/dword-design/puppeteer/compare/v5.0.0...v5.0.1) (2021-05-28)
 
 
