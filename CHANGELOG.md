@@ -1,3 +1,10 @@
+## [6.0.2](https://github.com/dword-design/puppeteer/compare/v6.0.1...v6.0.2) (2023-01-07)
+
+
+### Bug Fixes
+
+* trigger release ([fbae97b](https://github.com/dword-design/puppeteer/commit/fbae97b102dc1115f3d555cdfd00108c604df2a1))
+
 ## [6.0.1](https://github.com/dword-design/puppeteer/compare/v6.0.0...v6.0.1) (2023-01-07)
 
 
