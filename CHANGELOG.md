@@ -1,3 +1,10 @@
+## [6.0.4](https://github.com/dword-design/puppeteer/compare/v6.0.3...v6.0.4) (2023-03-24)
+
+
+### Bug Fixes
+
+* update dependency puppeteer to v19.8.0 ([b5f989d](https://github.com/dword-design/puppeteer/commit/b5f989d9b4659731391e595b2992623213209aea))
+
 ## [6.0.3](https://github.com/dword-design/puppeteer/compare/v6.0.2...v6.0.3) (2023-03-15)
 
 
