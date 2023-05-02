@@ -22,7 +22,7 @@
     "test": "base test"
   },
   "dependencies": {
-    "puppeteer": "^19.4.1"
+    "puppeteer": "^20.0.0"
   },
   "devDependencies": {
     "@dword-design/base": "^9.2.0"
