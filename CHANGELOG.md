@@ -1,3 +1,10 @@
+## [6.0.10](https://github.com/dword-design/puppeteer/compare/v6.0.9...v6.0.10) (2023-05-13)
+
+
+### Bug Fixes
+
+* new headless mode ([#97](https://github.com/dword-design/puppeteer/issues/97)) ([c02702e](https://github.com/dword-design/puppeteer/commit/c02702ea02d7ff2405360d75bb9c5457e63d5adc))
+
 ## [6.0.9](https://github.com/dword-design/puppeteer/compare/v6.0.8...v6.0.9) (2023-04-26)
 
 
