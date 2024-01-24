@@ -22,13 +22,13 @@
     "test": "base test"
   },
   "dependencies": {
-    "puppeteer": "^19.4.1"
+    "puppeteer": "^21.9.0"
   },
   "devDependencies": {
-    "@dword-design/base": "^9.2.0"
+    "@dword-design/base": "^11.0.2"
   },
   "engines": {
-    "node": ">=14"
+    "node": ">=18"
   },
   "publishConfig": {
     "access": "public"
