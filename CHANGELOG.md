@@ -1,3 +1,15 @@
+# [7.0.0](https://github.com/dword-design/puppeteer/compare/v6.0.10...v7.0.0) (2024-01-24)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#98](https://github.com/dword-design/puppeteer/issues/98)) ([fc65c07](https://github.com/dword-design/puppeteer/commit/fc65c0704527b12e692744883c8c549aca4fcd43))
+
+
+### BREAKING CHANGES
+
+* nodejs >= 18
+
 ## [6.0.10](https://github.com/dword-design/puppeteer/compare/v6.0.9...v6.0.10) (2023-05-13)
 
 
