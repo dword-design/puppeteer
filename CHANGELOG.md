@@ -1,3 +1,10 @@
+## [7.0.1](https://github.com/dword-design/puppeteer/compare/v7.0.0...v7.0.1) (2024-04-18)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#102](https://github.com/dword-design/puppeteer/issues/102)) ([6e5335c](https://github.com/dword-design/puppeteer/commit/6e5335c07b17c210ab3fabe85c4569cd40cc4b74))
+
 # [7.0.0](https://github.com/dword-design/puppeteer/compare/v6.0.10...v7.0.0) (2024-01-24)
 
 
